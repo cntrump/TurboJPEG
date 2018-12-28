@@ -1,7 +1,6 @@
 ## TurboJPEG
-Objective-C wrapper for libjpeg-turbo.
 
-note: `TurboJPEG` is a static framework
+an Objective-C wrapper for libjpeg-turbo.
 
 useage:
 
